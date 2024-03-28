@@ -2,7 +2,7 @@
 
 # About
 
-News-App is an amazing app through where you can find shows you love more easily. Want to know more about current situation of Globe ? News-App is one place where you will find everything. Select the bar and start browsing NOW !.
+News-App is an amazing app through where you can find article you love more easily. Want to know more about current situation of Globe ? News-App is one place where you will find everything. Select the bar and start browsing NOW !.
 
 
 # Requirements
