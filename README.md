@@ -31,10 +31,6 @@ The following tech stacks are used to build this project :-
             <li>CSS</li>
         </ol>
         
- # Link 
-
-Click&nbsp;<a href="https://chic-cobbler-f59be8.netlify.app/">Here</a>&nbsp;to see this Project.
-        
 # Pages
 This website has 3 main Features :-
 1. Home Page :- Home Page shows all the News fetched from the Server.
@@ -54,20 +50,6 @@ This website has 3 main Features :-
  
 # Inspiration & Difficulties
 In this project first I have to think and learned about the structure and layout of web Application.After that I learned how to fetch the data and apply Filteration.Then i think how to Show data while we are offline and also Give pop-up for Offline/Online.In this I also learned about various hooks and some more property of a CSS and designing the front-end part also.Thankyou
-
-# API Calls
-Various APIs provide means to add, delete, edit an item in the database. They are as follows :-
-<ol>
-  <li><strong>"/api/getSingleItem"</strong> - for getting a single Item (for Edit).</li>
-  <li><strong>"/api/getItems"</strong> - To get all items present in DB.</li>
-  <li><strong>"/api/addItems"</strong> - To add Item in the DB.</li>
-  <li><strong>"/api/deleteItem"</strong> - To Delete an Item in DB.</li> 
-  <li><strong>"/api/getUsers"</strong> - To get details of all users.</li> 
-  <li><strong>"/api/getSingleUser"</strong> - To get details of single user using query parameters.</li> 
-  <li><strong>"/api/updateUser"</strong> - To update data of user.</li> 
-  <li><strong>"/api/addUser"</strong> - To add an user.</li> 
-</ol>
-
 
  
 
