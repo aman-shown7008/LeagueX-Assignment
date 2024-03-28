@@ -1,55 +1,70 @@
-# <h1>News-App (Using React)</h1>
+# Getting Started with Create React App
 
-# About
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-News-App is an amazing app through where you can find shows you love more easily. Want to know more about currrent Situation of Globe ? News-App is one place where you will find everything. Select the bar and start browsing NOW !.
+## Available Scripts
 
+In the project directory, you can run:
 
-# Requirements
+### `npm start`
 
-Use "npm start" to run this project after cloning.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-# Features
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
- The following features are implemented in this project :-
-        <ol>
-            <li>Find Various News with just a click.</li>
-            <li>Beautiful and aesthethic User Interface with ScrollUp functionality which lets you browse with ease.</li>
-            <li>Given a Filteration functionality[ Category, Date Picker, Country] so that you can find a News according your preference.</li>
-            <li>Also fetched the data from the server and given the Pagination functionality so that it will not give all data in one GO.</li>
-            <li>If user is reading some news and incedently Internet goes. So the user know about it by the Pop-up and they can still read the articel.</li>       
-        </ol>
-        
-# Tech Stacks     
+### `npm test`
 
-The following tech stacks are used to build this project :-
-        <ol>
-            <li>React JS</li>
-            <li>Fetch API</li>
-            <li>JavaScript</li>
-            <li>HTML</li>
-            <li>CSS</li>
-        </ol>
-        
-# Pages
-This website has 3 main Features :-
-1. Home Page :- Home Page shows all the News fetched from the Server.
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
- <img src="https://i.imgur.com/6YrvNOv.png" alt="Main.png">
- <img src="https://imgur.com/I2k34Rm.png" alt="Main.png">
- <img src="https://imgur.com/2dxvR0H.png" alt="Main.png">
-2. Data Fetched :- Here user can see a pop-up and data without Internet.
- 
-  <img src="https://imgur.com/8FsQK3h.png" alt="Main.png">
-  <img src="https://imgur.com/iFomzaS.png" alt="Main.png">
- 
-3. Pagination & Footer Page :- Users can go Different pages by Clicking on button and Contact Us.
+### `npm run build`
 
- <img src="https://imgur.com/A2C6F64.png" alt="Main.png">
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
- 
-# Inspiration & Difficulties
-In this project first I have to think and learned about the structure and layout of web Application.After that I learned how to fetch the data and apply Filteration.Then i think how to Show data while we are offline and also Give pop-up for Offline/Online.In this I also learned about various hooks and some more property of a CSS and designing the front-end part also.Thankyou
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
- 
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
