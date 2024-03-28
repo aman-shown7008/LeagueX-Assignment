@@ -36,26 +36,21 @@ The following tech stacks are used to build this project :-
 Click&nbsp;<a href="https://chic-cobbler-f59be8.netlify.app/">Here</a>&nbsp;to see this Project.
         
 # Pages
-This website has 3 main routes :-
+This website has 3 main Features :-
 1. Home Page :- Home Page shows all the News fetched from the Server.
 
  <img src="https://i.imgur.com/6YrvNOv.png" alt="Main.png">
- <img src="https://i.imgur.com/69oLFBY.png" alt="Main.png">
- <img src="https://i.imgur.com/XCSna2b.png" alt="Main.png">
-2. MyMovies :- Here LoggedIn user can see his collection of movies as well as manage it.
+ <img src="https://imgur.com/I2k34Rm.png" alt="Main.png">
+ <img src="https://imgur.com/2dxvR0H.png" alt="Main.png">
+2. Data Fetched :- Here user can see a pop-up and data without Internet.
  
- Add Items
+  <img src="https://imgur.com/8FsQK3h.png" alt="Main.png">
+  <img src="https://imgur.com/iFomzaS.png" alt="Main.png">
  
-  <img src="https://i.imgur.com/Gp7suGN.png" alt="Main.png">
- 
-3. LogIn/SignUp Page :- Users can login and sign up using this page.
+3. Pagination & Footer Page :- Users can go Different pages by Clicking on button and Contact Us.
 
- <img src="https://i.imgur.com/byJqceV.png" alt="Main.png">
- 
- 
- If user is logged out 
- 
- <img src="https://i.imgur.com/Ni53cfO.png" alt="Main.png">
+ <img src="https://imgur.com/A2C6F64.png" alt="Main.png">
+
  
 # Inspiration & Difficulties
 In this project first I have to think and learned about the structure and layout of web Application.After that I learned how to fetch the data and apply Filteration.Then i think how to Show data while we are offline and also Give pop-up for Offline/Online.In this I also learned about various hooks and some more property of a CSS and designing the front-end part also.Thankyou
