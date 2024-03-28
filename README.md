@@ -27,7 +27,7 @@ The following tech stacks are used to build this project :-
             <li>React JS</li>
             <li>Fetch API</li>
             <li>JavaScript</li>
-            <li>CSS</li>
+            <li>HTML</li>
             <li>CSS</li>
         </ol>
         
