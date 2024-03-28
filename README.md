@@ -39,7 +39,7 @@ Click&nbsp;<a href="https://chic-cobbler-f59be8.netlify.app/">Here</a>&nbsp;to s
 This website has 3 main routes :-
 1. Home Page :- Home Page shows all the News fetched from the Server.
 
- <img src="https://imgur.com/a/Ug09dca" alt="Main.png">
+ <img src="https://i/imgur.com/Ug09dca.png" alt="Main.png">
  <img src="https://i.imgur.com/69oLFBY.png" alt="Main.png">
  <img src="https://i.imgur.com/XCSna2b.png" alt="Main.png">
 2. MyMovies :- Here LoggedIn user can see his collection of movies as well as manage it.
